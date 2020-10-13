@@ -1,0 +1,21 @@
+.container {
+    background-color:yellow;
+    padding-left: 0%;
+    border-width: 5px;
+    border-style: solid;
+    margin: 20px;
+    height: 200px;
+    width: 50%;
+}
+
+
+h1{
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: oblique;
+    color: darkred;
+}
+
+body{
+    background-color: forestgreen;
+}
